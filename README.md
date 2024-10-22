@@ -23,7 +23,7 @@
   
 <sub>Art Creds: [@Mokumoku_496](https://x.com/mokumoku_496?lang=ar)
 
-<img src="https://i.pinimg.com/564x/92/61/cd/9261cd316accc8a09b93da7059a32f56.jpg" alt="Nicktoons Unite!" width="450" height="300">
+<img src="https://i.pinimg.com/564x/92/61/cd/9261cd316accc8a09b93da7059a32f56.jpg" alt="Nicktoons Unite!" width="430" height="280">
 </div>
 
 
